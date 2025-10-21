@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>IMAGE CENTER</title>
+<h1 style="text-align:center;background-color:red;color:black;">IMAGE CENTER</h1>
+<center><img src="/home/mca/Achu/dog.avif "width="500px",height="700px"></center>
+<h1 style="text-align:left;background-color:red;color:black;">PUPPY</h1>
+</head>
+</html>

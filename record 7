@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Paragraph selector</title>
+<link rel ="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>CSS Selector Example</h1>
+<p class="intro">This paragraph is styled using a <b> class selector</b></p>
+<p id="highlight">This paragraph is styled using a <b> ID selector</b></p>
+<p>This paragraph is styled using a <b> element selector</b></p>
+<p class="group">This paragraph is styled using a <b> group selector</b></p>
+</body>
+</html>

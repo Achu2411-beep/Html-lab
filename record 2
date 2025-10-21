@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>HTML LISTS</title>
+<style>
+body{
+font-family:Arial,sans-serif;background-color:#9A8BBB;padding:20px;line-height:1.6;}
+h1{
+color:#7153F3;
+}
+h2{
+color:#7C4FF8;
+}
+p{
+margin-bottom:10px;
+}
+code{
+background-color:#BE899E;
+padding=2px 5px;
+border-radius:4px;
+}
+ul,ol{
+margin-bottom:20px;
+}
+</style>
+</head>
+<body>
+<h1>HTML LISTS</h1>
+<ol>
+<h2>Definition</h2>
+<p>An<strong> HTML List</strong> allows you to organize data on web pages into an<strong> ordered or unordered format</strong> to make the information easier to read and visually appealing. HTML Lists are very helpful for creating structured, accessible content in web development.</p>
+<h2> 1.<u> <strong>ORDERED LIST</strong></u> </h2>
+<p>An<strong> Ordered List </strong>display items in a sequence using numbers or letters .</p>
+<p>Each items is defined using the ol tag.</p>
+<p><strong>Types:</strong></p>
+<ol>
+<li>Numbers</li>
+<li>Uppercase</li>
+<li>Lowercase</li>
+<li>Roman Numbers -Uppercase</li>
+<li>Roman numbers -Lowercase</li>
+</ol>
+<p><strong>Examples</strong></p>
+<ol>
+<li>Apple</li>
+<li>Mango</li>
+<li>Orange</li>
+<h2> 2.<u><strong>UNORDERED LIST</strong></u></h2>
+<p>An<strong> unordered list </strong> displays items with bullet points instead of numbers.</p>
+<p>It used when order of items does not matter.</p>
+<p><strong>Types:</strong></p>
+<ul>
+<li>Circle</li>
+<li>Disc</li>
+<li>Square</li>
+<li>None</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Ready</li>
+<li>Set</li>
+<li>Go</li>
+<h2> 3.<u><strong>NESTED LISTS</strong></u></h2>
+<p>A <strong> Nested lists </strong> is a list placed in another list.</p>
+<p>This  is useful for showing sub-items or hierichical data.</p>
+<p><strong>Example:</strong></p>
+<dl>
+<dt>coffee</dt>
+<dd>-hot drink</dd>
+<dt>Juice</dt>
+<dd>-cold drink</dd>
+</dl>
+</body>
+</html>

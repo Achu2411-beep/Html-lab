@@ -1,0 +1,22 @@
+#myTable{
+width:100%;
+border collapse:collapse;
+font-family:sans-serif;
+}
+#myTable th{
+padding:20px 0;
+text-align:left;
+color:white;
+background-color:darkblue;
+border:1px solid gray;
+}
+#myTable td{
+padding:8px;
+border:1px solid gray;
+}
+#myTable tbody tr:nth-child(even){
+background-color:#F2F2F2;
+}
+#myTable tbody tr:hover{
+background-color:burlywood;
+}

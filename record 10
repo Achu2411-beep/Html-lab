@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Navigation</title>
+<style>
+body{
+margin:0;
+font-family:Ariel,sans-serif;
+}
+.sidebar{
+height:100vh;
+width:180px;
+background-color:green
+position:fixed;
+top:0;
+left:0;
+padding-top:20px
+}
+.sidebar a{
+display:block;
+color:white;
+padding:10px;
+text-decoration:none;
+font-weight:bold;
+}
+.sidebar a:hover{
+background-color:black;
+color:red;
+}
+.content{
+margin-left:200px;
+padding:20px;
+}
+h2{
+color:black;
+</style>
+</head>
+<body>
+<div class="sidebar">
+<a href="#">About Us</a>
+<a href="department.html">Department</a>
+<a href="vision.html">Vision and Mission</a>
+<a href="contact.html">Contact us</a>
+</div>
+<div class="content">
+<h2>About us</h2>
+<p>MEA Engineering College, the first NAAC accredited self-financing engineering college in Malappuram district, is committed to provide excellent and value-based education with a flair for ethics and professionalism.</p>
+</div>
+</body>
+</html>

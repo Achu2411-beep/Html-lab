@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>HTML tAGS</title>
+</head>
+<body bgcolor="pink">
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+<p>This is <u> Underline</u></p>
+<p>this is <i> italic </i> and<b> Bold</b></p>
+<p>Line break example<br> This line comes after line break</br><p>
+<p align="center">This paragraph is center</p>
+<p align="right">This paragraph is right</p>
+<p align="left">This paragraph is left</p>
+<marquee behavior="scroll";direction="left";scrollamount="5";>This is scrolling marquee text</marquee>
+<p><a href="https://onlinecourses.nptel.ac.in/">Click the link to go to</a><br>
+<center><img src="https://drop-assets.ea.com/images/4Mm9tMetund1jaaMOiPKQz/a32b07a3fa75dd1a474fc117d44717a6/FC25_Accloades_4x3.png?im=AspectCrop=(4,3),xPosition=0.5,yPosition=0.5;Resize=(1191)&q=85" width="200px";height=200px"></center>

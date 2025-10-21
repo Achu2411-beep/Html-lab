@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>INDIAN FESTIVALS</title>
+</head>
+<body>
+<h1 style="text-align:center;color:darkblue;">FESTIVALS OF INDIA</h1>
+<div style="text-align:center;">
+<p style="text-align:left;color:darkblue;">DEEPAVALI</p>
+<a href="deepavali.html"target="_blank">
+<img src="/home/mca/Achu/Deepavali.jpeg"width="500px",height="700px"alt="Deepavali">
+</a>
+<p><strong> DEEPAVALI </strong>-The Hindu festival of lights, with variations celebrated in other Indian religions such as Jainism and Sikhism. It symbolises the spiritual victory of Dharma over Adharma, light over darkness, good over evil, and knowledge over ignorance.</p>
+<p style="text-align:left;color:darkblue;">ONAM</p>
+<a href="onam.html"target="_blank">
+<img src="/home/mca/Achu/Onam.webp"width="500px",height="700px"alt="Onam">
+</a>
+<p><strong> ONAM </strong>-Onam is an annual harvest and cultural festival celebrated mostly by the people of Kerala and is traditionally associated with the legend of the benevolent Asura King Mahabali, who once ruled Kerala, returning each year to visit his people.</p>
+<p style="text-align:left;color:darkblue;">PONGAL</p>
+<a href="pongal.html"target="_blank">
+<img src="/home/mca/Achu/pongal.jpg"width="500px",height="700px"alt="Pongal">
+</a>
+<p><strong> PONGAL </strong>-Pongal is a multi-day Hindu harvest festival celebrated by Tamils. The festival is celebrated over three or four days, which are named Bhogi, Thai Pongal, Mattu Pongal and Kaanum Pongal, beginning on the last day of the Tamil calendar month of Margazhi, and observed on consecutive days.</p>
+</div>
+</body>
+</html>
